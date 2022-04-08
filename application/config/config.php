@@ -25,7 +25,7 @@ setlocale(LC_ALL, 'IND');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost:8085/bpmpk/siselov2/';
+$config['base_url'] = 'http://localhost:8085/bpmpk/siselo_2/';
 
 /*
 |--------------------------------------------------------------------------
